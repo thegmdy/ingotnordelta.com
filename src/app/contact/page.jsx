@@ -1,3 +1,4 @@
+"use client"
 import { useForm } from "react-hook-form";
 import { APIProvider, Map, AdvancedMarker } from "@vis.gl/react-google-maps";
 import { Mail, Phone, MapPin } from "lucide-react";
